@@ -1,3 +1,2 @@
 # some changes
-# one more change
-# and one more
+# This change emulates a change by a script
